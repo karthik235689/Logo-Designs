@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Motion Letter Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="0.5578125"
+     inkscape:cx="304.7619"
+     inkscape:cy="488.51541"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2480"
+       style="font-weight:bold;font-size:207.606px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';opacity:1;fill:#000000;fill-opacity:0.926471;stroke-width:5.13392"
+       d="m 41.870763,31.247182 0.03178,0.159649 -43.4154495,8.643926 c -6.4558741,1.285352 -10.6184555,7.517499 -9.3331045,13.973374 1.2853527,6.455876 7.5175018,10.618454 13.9733758,9.333104 l 43.4154502,-8.643927 2.024226,-0.403019 c 6.455875,-1.285351 12.687926,2.876724 13.973276,9.332597 1.285351,6.455874 -2.87723,12.688025 -9.333105,13.973377 l -2.024226,0.403019 -5.086919,1.012795 c -6.455875,1.285351 -10.618457,7.517499 -9.333106,13.973375 1.285351,6.455876 7.517501,10.618448 13.973377,9.333098 l 5.08692,-1.01279 2.024225,-0.40302 c 6.455875,-1.285353 12.688026,2.87723 13.973377,9.33311 1.285351,6.45587 -2.877229,12.68801 -9.333105,13.97337 l -2.024226,0.40302 -31.437848,6.25921 -22.3582244,4.45147 c -6.45587454,1.28536 -10.618455,7.51751 -9.3331036,13.97337 1.2853507,6.45589 7.5175003,10.61847 13.973375,9.33311 l 20.435868,-4.06874 33.360204,-6.64195 2.024226,-0.40301 c 6.455881,-1.28536 12.688025,2.87722 13.973377,9.3331 l 0.314626,1.58026 c 1.285352,6.45588 -2.877326,12.68752 -9.333206,13.97286 l -2.024227,0.40303 0.185264,0.93051 25.848673,-5.14641 -7.766245,-39.00716 11.886489,-24.91925 52.64781,52.62401 30.91937,-6.15599 L 113.42002,81.726082 146.65818,10.384225 117.22986,16.243342 81.295958,94.290944 67.719435,26.100765 Z M -16.187664,91.43264 c -6.455874,1.28535 -10.618454,7.517495 -9.333103,13.97337 1.285352,6.45587 7.5175,10.61846 13.973375,9.33311 l 31.066351,-6.18525 c 6.455875,-1.28535 10.618454,-7.5175 9.333103,-13.973374 -1.285352,-6.455874 -7.5175,-10.618454 -13.973374,-9.333102 l -7.1111473,1.415814 z" />
+  </g>
+</svg>
